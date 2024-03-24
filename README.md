@@ -1,0 +1,2 @@
+# FakeNewsDetectionChromeExtension
+FakeNewsDetectionChromeExtension
